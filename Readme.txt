@@ -1,1 +1,1 @@
-This repository consists of the Java projects.
+This repository consists of the Java assignments.
